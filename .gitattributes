@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 School[[:space:]]VR[[:space:]]Project/** filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+I:/GitHub/School-VR-Project-/README.md filter=lfs diff=lfs merge=lfs -text
